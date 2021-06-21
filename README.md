@@ -3,6 +3,7 @@ Terminé el Bootcamp de Desarrollo FullStack en 4Geeks Academy y estoy cursando 
 
 <br/>
 
+<a href="www.linkedin.com/in/nicogui7">
 <img align="left" alt="Nicolas Guillen Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin-square.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://twitter.com/NicoGui7">
